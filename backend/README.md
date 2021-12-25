@@ -1,5 +1,6 @@
-<h1>Backend - Server<h1>
-<h3>Packages</h3>
+<h1>Backend - Server</h1>
+<h2>Developed in Spring Framework (Java)</h2>
+<h3>Main packages</h3>
 <ul>
   <li><strong>springframework</strong> for the core features</li>
   <li><strong>org.postgresql</strong> for the database</li>
