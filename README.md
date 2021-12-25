@@ -1,6 +1,13 @@
 <h1> E-Smart </h1>
 <h2>Integrated Energy Monitoring Platform for Households </h2>
 
+<h3>Link: https://ds2021-handaric-cosmin-2-front.herokuapp.com</h3>
+<h3>Demo user:</h3>
+<ul>
+  <li>usernmae: user1</li>  
+  <li>password: user1</li>  
+</ul>
+
 <h3>Requirements & Modules</h3>
 <p>This is a distributed system for an energy distribution operator that stores energy consumption data for its clients.</p>
 <h4>Modules:</h4>
@@ -42,7 +49,7 @@ the baseline summed with the device max consumption</li>
   <li><strong>Material UI</strong> and <strong>Sass</strong> for client styling</li>
   <li><strong>Spring Framework</strong> for server development</li>
   <li><strong>PostgreSQL</strong> as database management system</li>
-  <li><strong>Java Swing</strong> for simulator development</li>
+  <li><strong>Java Swing</strong> for producer (simulator) development</li>
   <li><strong>RabbitMQ</strong> as message broker</li>
   <li><strong>Docker</strong> and <strong>Heroku</strong> for deployment</li>
 </ul>
