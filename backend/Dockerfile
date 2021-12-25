@@ -12,12 +12,12 @@ RUN ls -l /root
 FROM openjdk:11.0.6-jre
 
 ENV TZ=UTC
-ENV DB_IP=ec2-52-208-185-143.eu-west-1.compute.amazonaws.com
+ENV DB_IP=_
 ENV DB_PORT=5432
-ENV DB_USER=cqpjbzfkngyvdp
-ENV DB_PASSWORD=3f3c10246835af954e357799cd5a0f0520fe533e54e1936f6fd3d8afe1048f26
-ENV DB_DBNAME=dcik1k0hhk9m11
-ENV RABBIT_URI=amqps://euitndrk:KsCrKJuRAn3cNSwJi4CAaXoD_kj3qFRV@kangaroo.rmq.cloudamqp.com/euitndrk
+ENV DB_USER=_
+ENV DB_PASSWORD=_
+ENV DB_DBNAME=_
+ENV RABBIT_URI=_
 ENV RABBIT_QNAME=measurements
 ENV RABBIT_QDURABLE=false
 ENV RABBIT_QEXCLUSIVE=false
