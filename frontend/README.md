@@ -1,6 +1,6 @@
 <h1>Frontend - Client</h1>
-  
-<h3>Packages</h3>
+<h2>Developed in ReactJS (JavaScript) </h2>
+<h3>Main oackages</h3>
 <ul>
   <li><strong>@mui/material</strong> and <strong>node-sass</strong> for styling</li>
   <li><strong>axios</strong> for requests</li>
