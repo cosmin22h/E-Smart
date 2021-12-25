@@ -43,4 +43,6 @@ the baseline summed with the device max consumption</li>
   <li><strong>Spring Framework</strong> for server development</li>
   <li><strong>PostgreSQL</strong> as database management system</li>
   <li><strong>Java Swing</strong> for simulator development</li>
+  <li><strong>RabbitMQ</strong> as message broker</li>
+  <li><strong>Docker</strong> and <strong>Heroku</strong> for deployment</li>
 </ul>
