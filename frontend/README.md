@@ -2,7 +2,7 @@
   
 <h3>Packages</h3>
 <ul>
-  <li>@mui/material and node-sass for styling</li>
+  <li><strong>@mui/material</strong> and <strong>node-sass</strong> for styling</li>
   <li>axios for requests</li>
   <li>redux and react-redux for redux management</li>
   <li>react-router-dom for navigation</li>
