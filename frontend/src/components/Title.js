@@ -1,0 +1,15 @@
+import React from 'react';
+
+import Typography from '@mui/material/Typography';
+
+const Title = props => {
+  const { children } = props;
+
+  return (
+    <Typography component="h2" variant="h6" color="primary" gutterBottom>
+      {children}
+    </Typography>
+  );
+};
+
+export default Title;
