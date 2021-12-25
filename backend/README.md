@@ -1,5 +1,4 @@
 <h1>Backend - Server<h1>
-  
 <h3>Packages</h3>
 <ul>
   <li><strong>springframework</strong> for the core features</li>
