@@ -1,0 +1,17 @@
+package ro.tuc.ds2021.handaric.cosmin.backend.dtos.user;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@Data
+public class AddressDTO {
+    private String country;
+    private String region;
+    private String addressOne;
+}
